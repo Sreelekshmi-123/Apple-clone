@@ -1,0 +1,13 @@
+.Container{
+    font-size: 20px;
+    box-sizing: border-box;
+}
+
+.Menus{ 
+    padding-top: 10px;
+}
+.Logo{
+    align-items: left;
+    padding-left: 470px;
+    /* padding-top: 10px; */
+}
